@@ -33,15 +33,15 @@ Coding
 
 💬 Ask me about Java, Apache Maven, Hibernate, Spring, Springboot, JavaScript, HTML5, CSS3
 
-📫 Reach out to me shubhampawar09011998@gmail.com
+📫 Reach out to me asmertia0212@gmail.com
 
 Connect with me:
-shubhampawar0901 kaustubh_badve
+asr0212
 
 
 Coding
 
-shubhampawar0901
+asr0212
 
 
 
@@ -51,62 +51,9 @@ Java 8 Spring Spring-Boot MySql AWS Maven postman html5 css3 bootstrap javascrip
 
 📊 My Github Stats
 
-Shubham Pawar's Github Stats Shubham Pawar's Top Languages
+Anshuman Singh's Github Stats Shubham Pawar's Top Languages
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-Shubham Pawar's Activity Graph
+Anshuman Singh's Activity Graph
 
 
-
-Pinned
- g-utsav/FoodDeliveryApp Public
- Java  1
-
- asr0212/sephora_clone Public
-it's a clone of a website called sephora.
-
- JavaScript  1  1
-
- asr0212/lumen5_clone Public
- HTML  1
-
- Java-assignments-unit4 Public
-Masai bootcamp java assignment
-
- Java
-
- Masai-School-Java-assignments Public
-All java assignments are in this repository
-
- g-utsav/OnlineFoodDeliveryApp Public
- Java
-
-219 contributions in the last year
-Aug
-Sep
-Oct
-Nov
-Dec
-Jan
-Feb
-Mar
-Apr
-May
-Jun
-Jul
-Aug
-Mon
-Wed
-Fri
-Learn how we count contributionsLess      More
-2022
-Contribution activity
-August 2022
-g-utsav/FoodDeliveryApp 17 commits
-g-utsav/OnlineFoodDeliveryApp 12 commits
-shubhampawar0901/shubhampawar0901 4 commits
-shubhampawar0901/Masai-School-Java-assignments 1 commit
-asr0212/sephora_clone 1 commit
- shubhampawar0901/ProtyushB
-Aug 18
-6 contributions in private repositories
