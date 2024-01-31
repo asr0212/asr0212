@@ -13,12 +13,10 @@
  👨‍💻 I learnt **Java Backend Development**
  
  ➥ Here is my Resume : <a href="https://drive.google.com/file/d/1s8OOjDcvrm7nmtvvVc9RMvsMSgFtkyiD/view?usp=sharing">**RESUME**</a>
- 
- ➥ Here is my Portfolio : <a href="https://anshumansingh0212.netlify.app/">**PORTFOLIO**</a>
 
  🌱 Currently learning **Springboot**
 
- 💬 Ask me about **Java, Maven, Hibernate, Spring, Springboot REST API, JavaScript, HTML5, CSS3**
+ 💬 Ask me about **Java, Maven, Hibernate, Quarkus, REST API, Postgresql3**
 
  📫 Reach out to me **asmertia0212@gmail.com**
  
