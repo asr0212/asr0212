@@ -16,7 +16,7 @@
 
  🌱 Currently learning **Springboot**
 
- 💬 Ask me about **Java, Maven, Hibernate, Quarkus, REST API, Postgresql3**
+ 💬 Ask me about **Java, Maven, Hibernate, Quarkus, REST API, Postgresql**
 
  📫 Reach out to me **asmertia0212@gmail.com**
  
